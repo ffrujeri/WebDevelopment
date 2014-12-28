@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_registro" value="name:nome;datatype:LONGCHAR,name:email;datatype:LONGCHAR,name:endereco;datatype:LONGCHAR,name:cidade;datatype:LONGCHAR,name:estado;datatype:LONGCHAR,name:profissao;datatype:LONGCHAR" />
+</info>
